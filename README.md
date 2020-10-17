@@ -6,4 +6,4 @@ In addition, this is also a submission to complete the Belajar Pengembangan Mach
 Here is the link for further details about the class: http://dicoding.com/certificates/ERZR5M41NPYV
 
 ## The Certificate's:
-<img src="https://user-images.githubusercontent.com/55497456/96334642-717ea580-109c-11eb-978e-60e6348a986c.png" width=256/>&nbsp;
+<img src="https://user-images.githubusercontent.com/55497456/96334642-717ea580-109c-11eb-978e-60e6348a986c.png" width=500/>&nbsp;
